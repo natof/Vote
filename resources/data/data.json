@@ -1,0 +1,9 @@
+{
+  "no_vote_message": "§cYou haven't voted yet. Go to https://minelance-vote.fr to vote !",
+  "vote_message": "§aThank you for your vote !",
+  "already_vote_message": "§cYou already have vote comes back later !",
+  "command_permission": "§cYou don't have permission to configure the voting command !",
+  "command": "vote",
+  "command_description": "§9§l» §r§fVote for the server and win a reward !",
+  "key": ""
+}
